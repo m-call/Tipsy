@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Tipsy
 //
-//  Created by Colleen Callahan on 3/9/22.
+//  Created by Michael Callahan on 3/9/22.
 //
 
 import UIKit
